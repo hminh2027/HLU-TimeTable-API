@@ -1,4 +1,4 @@
-# HLU-TimeTable-API
+# HLU-TimeTable-API (School's Website has been updated, so this api is no longer useable)
 This is a NodeJS library with Javascript support NodeJS Server
 ## Installation
 ```javascript
